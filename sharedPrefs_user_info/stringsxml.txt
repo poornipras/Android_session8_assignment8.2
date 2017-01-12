@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="heading">Information</string>
+    <string name="Edit_name">Enter Name</string>
+    <string name="Edit_age">Enter Age</string>
+    <string name="Edit_Phone">Enter Phone</string>
+    <string name="Edit_city">Enter City</string>
+    <string name="Button_save">Save</string>
+    <string name="Button_show">Show</string>
+
+    <string name="display_heading">User Information</string>
+    <string name="displaytext_name">Name</string>
+    <string name="displaytext_age">Age</string>
+    <string name="displaytext_phone">Phone</string>
+    <string name="displaytext_city">City</string>
+    <string name="displayload_data">Load Data</string>
+    <string name="display_back">Back</string>
+</resources>
